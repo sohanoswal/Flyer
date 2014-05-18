@@ -21,7 +21,7 @@
     if (self = [super initWithSize:size]) {
        self.backgroundColor = [SKColor colorWithRed:0.15 green:0.15 blue:0.3 alpha:1.0];
         
-        self.physicsBody = [SKPhysicsBody bodyWithEdgeLoopFromRect:CGRectMake(0,0 , self.size.width, self.size.height)];
+        self.physicsBody = [SKPhysicsBody bodyWithEdgeLoopFromRect:CGRectMake(0,192 , self.size.width, self.size.height)];
         
         
         //self.physicsBody = [SKPhysicsBody bodyWithEdgeLoopFromRect:CGRectMake(self.size.height,self.size.width)];
