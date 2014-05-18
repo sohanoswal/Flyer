@@ -491,6 +491,7 @@
 				563E92451917FBE6000C2089 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		563E92461917FBE6000C2089 /* Build configuration list for PBXNativeTarget "FlyerTests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +500,7 @@
 				563E92481917FBE6000C2089 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
